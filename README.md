@@ -1,4 +1,4 @@
-# NS1-fmi (Network Security 1)
+# NS1 (Network Security 1)
 
 Homework 3
 ----
